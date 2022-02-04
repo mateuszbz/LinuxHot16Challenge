@@ -1,0 +1,113 @@
+# AUTOR: mattai#6230
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# Zmiana katalogu, przejście do katalogu
+
+# 2. ls
+# Wyświetlanie plików, katalogów
+
+# 3. cp
+# kopiowanie plików, katalogów 
+
+# 4. mv
+# przenoszenie plików, katalogów
+
+# 5. rm
+# usuwanie plików
+
+# 6. rmdir
+# usuwanie katalogów
+
+# 7. mkdir
+# tworzenie katalogów
+
+# 8. touch
+# tworzenie plików
+
+# 9. pwd
+# wyświetlanie scieżki
+
+# 10. sudo
+# nadanie uprawnień root
+
+# 11. man
+# wyświetlanie instrukcja
+
+# 12. grep
+# wyszukowanie wzorca
+
+# 13. ps
+# wyświetlanie listy procesów
+
+# 14. chmod
+# zmiana uprawnień
+
+# 15. cat
+# łączenie pików, wyświetlanie zawartości pliku w terminalu
+
+# 16. chown
+# zmiana właściela pliku, katalogu 
+
+
+
+# HOT 32
+
+# 17. clear
+# wyczyszcznie terminala
+
+# 18. find
+# znalezienie pliku, katalogu
+
+# 19. df
+# zużycie dysku
+
+# 20. kill
+# zabicie procesu
+
+# 21. tar
+# polecania archiwum
+
+# 22. less
+# wyświetlanie zawartości pliku
+
+# 23. passwd
+# zmiana hasła
+
+# 24. top
+# info o najważniejszych procesach
+
+# 25. whoami
+# info o bieżącym użytkowniku
+
+# 26. who
+# info o zalogowanych użytkownikach
+
+# 27. locate
+# zlokalizowanie pliku
+
+# 28. head
+# początek pliku
+
+# 29. tail
+# koniec pliku
+
+# 30. history
+# historia komend
+
+# 31. exit
+# zamknięcie terminala
+
+# 32. date
+# info o dacie
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
